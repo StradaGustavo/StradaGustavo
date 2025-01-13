@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi! I'm Gustavo Strada! 👋🏻
 
-<!--
-**StradaGustavo/StradaGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently technology student
+- 📫 contact me: gss.stradagustavo@gmail.com
+  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-strada-silva/)
+[![linkedin](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.linkedin.com/in/gustavo-strada-silva](https://www.instagram.com/gus_strada/)/)
 
-Here are some ideas to get you started:
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=StradaGustavo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Front-End:
+
+
+
+Back-End:
