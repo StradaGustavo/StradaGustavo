@@ -9,7 +9,9 @@
 # About Me:
 
 I’m passionate about technology and excited by the endless possibilities it offers. I hold an Associate's degree in Systems Analysis and Development and, in 2025, I will begin a Bachelor's degree in Computer Science to further expand my knowledge.
+
 While I may not have professional experience in the field yet, I have a strong foundation in HTML, CSS, JavaScript, React.js, React Native, PHP, and Python. I’m always looking to enhance my skills and deepen my understanding of both web and mobile development, with the goal of delivering comprehensive and innovative solutions.
+
 I’m seeking an opportunity in a dynamic and creative environment where I can apply my technical expertise and contribute to challenging projects. My aim is to grow professionally, take on new responsibilities, and become a specialist in web and mobile development.
 
 # Front-End:
